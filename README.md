@@ -1,1 +1,7 @@
-This is an  ai which containing multiple feature like generating images  ,  code ,  text , gif .
+## AI Application 
+- it has following feature
+  - generating images
+  - generating code
+  - generating text
+  - generating gif
+
